@@ -1,4 +1,4 @@
-# HyperBlog: Tu mejor Prueba en el Curso :tw-1f603: :tw-1f60b: :tw-1f60d:
+# HyperBlog: Tu mejor Prueba en el Curso :smiling_face_with_three_hearts: :heart_eyes: :smiley:
 Un blog increíble para el curso de Git y Github de Platzi
 
 >  *Este es un curso de Git y GitHub profesional de platzi, donde he aprendido todo lo referente a la creacion repositorios, branch, llaves privadas y publicas, asi como la generación de deployment*
